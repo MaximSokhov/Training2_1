@@ -1,6 +1,6 @@
 Задание 2 Вариант 1Э > README.md
-ls
-ls
+git status
+git log
 
 
 echo Задание 2 Вариант 1Э
